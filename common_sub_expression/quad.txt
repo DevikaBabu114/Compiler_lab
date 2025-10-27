@@ -1,0 +1,6 @@
++ a b t1
+* c d t2
++ a b t3
+- t2 t3 t4
++ c d a
++ a b t5
