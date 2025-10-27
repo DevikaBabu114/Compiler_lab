@@ -1,0 +1,9 @@
+RES	=	OP1	OP	OP2
+t1	=	b	*	c
+t2	=	a	+	t1
+t3	=	a	+	b
+t4	=	c	-	d
+t5	=	t3	*	t4
+t6	=	x	=	t5
+t7	=	a	/	b
+t8	=	x	^	t7
