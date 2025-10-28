@@ -1,0 +1,35 @@
+1	int	Keyword
+1	main	Identifier 0
+2	int	Keyword
+2	a	Identifier 1
+2	=	Assignment operator
+2	10	Number
+2	b	Identifier 2
+2	=	Assignment operator
+2	20	Number
+3	float	Keyword
+3	sum	Identifier 3
+4	sum	Identifier 3
+4	=	Assignment operator
+4	a	Identifier 1
+4	+	Arithmetic operator
+4	b	Identifier 2
+4	*	Arithmetic operator
+4	2	Number
+6	if	Keyword
+6	sum	Identifier 3
+6	>	GT operator
+6	30	Number
+7	sum	Identifier 3
+7	=	Assignment operator
+7	sum	Identifier 3
+7	-	Arithmetic operator
+7	5	Number
+8	else	Keyword
+9	sum	Identifier 3
+9	=	Assignment operator
+9	sum	Identifier 3
+9	+	Arithmetic operator
+9	5	Number
+12	return	Keyword
+12	0	Number

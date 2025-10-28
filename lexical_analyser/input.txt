@@ -1,0 +1,13 @@
+int main() {
+    int a = 10, b = 20;
+    float sum;
+    sum = a + b * 2;
+
+    if (sum > 30) {
+        sum = sum - 5;
+    } else {
+        sum = sum + 5;
+    }
+
+    return 0;
+}
