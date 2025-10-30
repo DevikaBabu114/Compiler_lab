@@ -1,0 +1,9 @@
+int a = 10;
+float b = 20.5;
+if (a <= b) {
+    a = a + 5;
+    printf("Hello World");
+}
+while (a != b) {
+    b = b - 1;
+}
